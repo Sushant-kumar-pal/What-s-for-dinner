@@ -48,11 +48,4 @@ Wouldn't it be nice if someone (in this case, us as developers!) builds a meal p
 * Add search filters by calories, diet or allergy restrictions
 * Help the user manage household better by showing cost of total meal 
 ---
-## Authors
-**Group 5 Studio Team Members**
-* [Victor Adams](https://kysper.github.io/)
-* [Tim Lukens](https://timlukens.com/)
-* [Micah Walker](https://mjwalker99.github.io/Basic-Portfolio/)
-* [Keen Wilson](https://keenwilson.github.io/)
 
-_This group project is part of the Full-Stack Web Development program at University of Kansas_
