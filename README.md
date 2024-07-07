@@ -1,5 +1,5 @@
 # What's For Dinner
-#Sushant Kumar Pal
+# Sushant Kumar Pal
 
 #### **A meal plan generator browser-based app** that allows the user to save searched recipes to weekly meal planner
 
